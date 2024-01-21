@@ -1,0 +1,12 @@
+% Model:              Design.mph
+% Version:            COMSOL 6.0.0.318
+% Date:               Sep 11 2022, 01:57
+% Dimension:          1
+% Nodes:              4
+% Expressions:        1
+% Description:        Global
+% x                       Power
+99.99999999999999         0.23235250554152462
+679.9999999999999         0.23235250554152906
+2000                      0.23235250554152906
+4700                      0.23235250554156367

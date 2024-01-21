@@ -1,0 +1,17 @@
+% Model:              piezoelectric_energy_harvester.mph
+% Version:            COMSOL 6.0.0.318
+% Date:               Sep 11 2022, 20:10
+% Dimension:          1
+% Nodes:              9
+% Expressions:        1
+% Description:        Global
+% x                       voltage (V), mechanical power in (mW), electric power out (mW)
+0                         0
+25                        5.258750833755539
+50                        5.30055861329771
+75                        5.309922775461855
+100                       5.315055148506512
+125                       5.3172918651120195
+150                       5.318759618998655
+175                       5.319692458564911
+200                       5.32038003231634
